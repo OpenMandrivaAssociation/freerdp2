@@ -31,7 +31,7 @@
 
 Name:		freerdp2
 Version:	2.11.7
-Release:	5
+Release:	6
 Summary:	A free remote desktop protocol client
 License:	Apache License
 Group:		Networking/Remote access
