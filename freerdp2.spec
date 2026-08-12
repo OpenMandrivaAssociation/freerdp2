@@ -1,4 +1,5 @@
 %global optflags %{optflags} -Wno-incompatible-function-pointer-types
+%global optflags %{optflags} -Wno-incompatible-pointer-types
 %global optflags %{optflags} -Wno-error -Wno-implicit-function-declaration
 %global optflags %{optflags} -O2
 
@@ -32,7 +33,7 @@
 
 Name:		freerdp2
 Version:	2.11.7
-Release:	11
+Release:	12
 Summary:	A free remote desktop protocol client
 License:	Apache License
 Group:		Networking/Remote access
